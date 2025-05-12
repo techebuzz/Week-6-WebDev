@@ -17,3 +17,4 @@ This project demonstrates various JavaScript event handling techniques and inter
 Open `index.html` in your web browser to see the interactive elements in action.
 
 ## You can view the magic
+https://techebuzz.github.io/Week-6-WebDev/
